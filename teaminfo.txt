@@ -1,4 +1,12 @@
 University ID  Name
-2110040050 M.Sahil
+<<<<<<< HEAD
 2110040038 Shiva rana pratap
+=======
+2110040050 M.Sahil
+2110040038 G.Shiva Rana Pratap
+>>>>>>> 14ce71d6446643008c3c162866a357dbf1e50fc2
 2110040035 Shiva Ganesh Saran
+<<<<<<< HEAD
+=======
+2110040023 Rahul
+>>>>>>> 6eaf5554959c450c925d097e45be9d19fa997086
